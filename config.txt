@@ -1,0 +1,6 @@
+token=NTAxOTI2NjkwMjkzODA5MTU0.DqgrBA.ZWfZEZHkun041GhwTUdsImJzwXc
+owner=390866409195831296
+prefix=D
+Dhelp
+stayinchannel=true
+songinstatus=true
